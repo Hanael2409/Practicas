@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1708483995 source:c:\users\mostr\onedrive\documentos\estructuras\mibiblioteca\nodo.cpp
+	"Nodo.h"
+
+1708394615 c:\users\mostr\onedrive\documentos\estructuras\mibiblioteca\nodo.h
+	<iostream>
+	<iomanip>
+
+1710392370 source:c:\users\mostr\onedrive\documentos\estructuras\practica2\main.cpp
+	<iostream>
+	<fstream>
+	<ostream>
+	"../miBiblioteca/ListaSimple.h"
+
+1710387068 c:\users\mostr\onedrive\documentos\estructuras\mibiblioteca\listasimple.h
+	"Nodo.h"
+
+1710392141 source:c:\users\mostr\onedrive\documentos\estructuras\mibiblioteca\listasimple.cpp
+	"ListaSimple.h"
+	<iostream>
+	<stdlib.h>
+
